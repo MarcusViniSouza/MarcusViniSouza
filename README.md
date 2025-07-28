@@ -1,7 +1,7 @@
 ### Fala ai Devs, me chamo Marcus Vinicius de Souza
 
 - 🎓Formado em Analise e Desenvolvimento de Sistemas
-- 💻 Atualmente trabalhando com Back-end
+- 💻 Atualmente trabalhando com .NET, C# e SQL Oracle
 
 <div align="center">
   <a href="https://github.com/MarcusViniSouza">
